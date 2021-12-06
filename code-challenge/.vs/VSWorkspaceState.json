@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Data",
+    "\\Models",
+    "\\Properties",
+    "\\Repositories",
+    "\\resources",
+    "\\Services"
+  ],
+  "SelectedNode": "\\code-challenge.csproj.user",
+  "PreviewInSolutionExplorer": false
+}
